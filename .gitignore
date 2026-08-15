@@ -1,3 +1,18 @@
-python_projects/
+# Virtual Environment
+venv/
+.venv/
+env/
+pyLearningWithProject/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
